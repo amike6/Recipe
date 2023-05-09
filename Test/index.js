@@ -58,7 +58,7 @@ app.get('/books', (req, res) => {
   });
 
   // Start the server and listen on port 3000
-app.listen(3001, () => {
+app.listen(3003, () => {
   console.log('Server listening on port 3002');
 });
   
